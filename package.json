@@ -1,0 +1,17 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "first express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "lesson3"
+  ],
+  "author": "rf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
